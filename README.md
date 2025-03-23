@@ -1,2 +1,3 @@
-# Bharat-intern-task1
-To-Do List App : Develop a simple app that allows users to create and manage their to-do lists.
+
+#To-Do List App : 
+To Develop a simple app that allows users to create and manage their to-do lists.
